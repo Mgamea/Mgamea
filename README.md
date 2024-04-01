@@ -5,24 +5,20 @@ I'm adaptable to new work environments and known as a solution-solver to overcom
 skills easily by taking online courses. Furthermore, I am tri-lingual with an excellent communication skills in a multicultural environment . I have dedicated some of my time in volunteering
 activities teaching languages to children in various cities across the wolrd such as Paris, Cairo, and Casablanca. Here's a bit more about me:
 
-- 🌐 Tri-lingual: Fluent in French, English, and Arabic.
+- 🌐 Tri-lingual: Fluent in English, French and Arabic.
 - 💼 Currently studying Information Technology at the University of Saint-Boniface, Winnipeg.
 - 🌟 Fast learner: I love acquiring new skills through online courses.
-- 🌍 I have a passion for teaching languages as a volunteer in differents cities like Paris, Cairo, and Casablanca.
+- 🌍 I have a passion for teaching as a volunteer in differents cities like Paris, Cairo, Casablanca and Winnipeg
 
 ## Experience
 
 ### Technician Assistant - Université de St-Boniface - Winnipeg
 - Installation and maintenance of equipment in classrooms and for staff, including workstations, laptops, projectors, and printers.
-- August 2023 - present
+- August 2022 - present
 
 ### Group Tutor - St-Boniface University - Winnipeg
 - Assisted students in the SI1010 course, simplifying Microsoft Office tools and features.
 - March 2023 – April 2023
-
-### Technician Assistant - Université de St-Boniface - Winnipeg
-- Installation and maintenance of equipment in classrooms and for staff, including workstations, laptops, projectors, and printers.
-- August 2022 - May 2023
 
 ### System and Network Administrator - Telemarketing PLUS - Casablanca, Morocco
 - Oversaw CRM delegations in the cloud, performed remote assistance, and managed attributes.
@@ -55,6 +51,7 @@ activities teaching languages to children in various cities across the wolrd suc
 
 ## Certifications
 
+- Google IT Support Professional Certificate - Google - February 2024
 - Data_Analytics_Essentials_Badge - Cisco Academy - March 2023
 - Discovering Data Analysis - LinkedIn Learning - January 2022
 - Becoming a Network Administrator - LinkedIn Learning - February-May 2021
@@ -78,5 +75,6 @@ activities teaching languages to children in various cities across the wolrd suc
 ## Volunteer Activities
 
 - Volunteered to teach languages to children in various cities around the world, including Paris, Cairo, Casablanca and Winnipeg.
+- Tuteur with United for Literacy - Winnipeg
 
 - 📫 How to reach me :  https://www.linkedin.com/in/moustafagamea/
